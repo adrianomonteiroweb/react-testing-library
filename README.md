@@ -5,13 +5,9 @@ Projeto de testes em React Testing Library pela Trybe. 🚀
 # Sumário
 
 - [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
   - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
   - [Como desenvolver](#como-desenvolver)
     - [Linter](#linter)
     - [Testes](#testes)
@@ -26,9 +22,6 @@ Projeto de testes em React Testing Library pela Trybe. 🚀
     - [6. Teste o componente `<Pokemon.js />`](#6-teste-o-componente-pokemonjs-)
     - [7. Teste o componente `<PokemonDetails.js />`](#7-teste-o-componente-pokemondetailsjs-)
     - [Quer fazer mais? Temos algumas sugestões!](#quer-fazer-mais-temos-algumas-sugestões)
-- [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
 
 # Habilidades
 
